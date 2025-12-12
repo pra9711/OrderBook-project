@@ -111,7 +111,7 @@ This project demonstrates:
 - **Financial Markets**: Market microstructure knowledge
 - **Benchmarking**: Proper latency measurement techniques
 
-## 💼 Resume Highlights
+## 💼  Highlights
 
 **Key Skills Demonstrated:**
 - C++17 (STL, smart pointers, modern features)
@@ -137,13 +137,7 @@ This project demonstrates:
 - Historical data replay
 - Trading strategy backtester
 
-## 📄 License
 
-MIT License - Free for personal and commercial use
-
-## 👨‍💻 Author
-
-Created as a portfolio project demonstrating C++ proficiency and HFT system design knowledge.
 
 ---
 
